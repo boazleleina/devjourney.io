@@ -1,0 +1,55 @@
+.ulstyle{
+    list-style-type: none;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 20px;
+    
+}
+
+.fl{
+    float: left;
+}
+
+.fr{
+    float: right;
+}
+
+.listyle{
+    display: block;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.homestyle{
+    text-align: center;
+    color: chartreuse;
+}
+
+.homestyle img{
+    width:500px;
+    height:300px;
+}
+
+.stylegal{
+    padding: 10px;
+    margin: 10px;
+    border:1px solid black;
+    float: left;
+    position: relative;
+
+}
+
+.stylegal:hover{
+    transition: 1s;
+    border: 4px dotted grey;
+
+
+
+}
+body,html{
+    scroll-behavior: smooth;
+}

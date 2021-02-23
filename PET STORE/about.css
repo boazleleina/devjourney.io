@@ -1,0 +1,46 @@
+body{
+    background: url(images/cat3.jpg);
+    background-size: auto;
+}
+
+.styleabout{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+}
+
+.styleabout p, ul{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.styleabout h3{
+    color:brown;
+}
+
+address{
+    font-weight: bold;
+    
+}
+
+.info{
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    
+
+}
+
+.info:hover{
+    color:red;
+    font-size: 30px;
+    font-style: bold;
+    transition:1s;
+}
